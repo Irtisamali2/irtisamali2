@@ -28,12 +28,14 @@
 
 
 # 📊 GitHub Stats:
-<div style="text-align:center">
+<div style="width: 80%;
+    margin: auto;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true">
 </div>
 
 ### ✍️Dev Quote
-<div style="text-align:center">
+<div style="width: 80%;
+    margin: auto;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
