@@ -28,8 +28,6 @@
 
 
 # 📊 GitHub Stats:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true">
-
 <table align="center">
   <tr>
     <td>
@@ -40,7 +38,13 @@
 
 
 ### ✍️Dev Quote
-  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <table align="center">
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    </td>
+  </tr>
+</table>
 
 
 
