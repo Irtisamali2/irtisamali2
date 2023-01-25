@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irtisam Ali</h1>
-<h3 align="center">I want to leave a mark in the digital world..</h3>
+<h3 align="center">I want to leave a mark in the digital world..</h3> <br>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif">
 
@@ -30,10 +30,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=irtisamali2&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
