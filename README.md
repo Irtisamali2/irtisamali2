@@ -28,10 +28,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true)<br/>
+<div style="text-align:center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true">
+</div>
 
 ### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="text-align:center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
