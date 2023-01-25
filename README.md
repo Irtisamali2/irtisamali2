@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irtisamali2&label=Profile%20views&color=0e75b6&style=flat" alt="irtisamali2" /> </p>
 
+# 💫 About Me:
+
 - 🔭 I’m currently working on **at BesTel LLC**
 
 - 🌱 I’m currently learning **new technologies to explore digital world.**
@@ -29,10 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&" alt="irtisamali2" /></p>
 
-
-
-# 💫 About Me:
-🔭 I’m currently working at BesTel LLC<br><br>🌱 I’m currently learning new technologies to explore the digital world.<br><br>📫 How to reach me irtisam.ali2@gmail.com
 
 
 ## 🌐 Socials:
