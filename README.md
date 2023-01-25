@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **at BesTel LLC**
+- 🔭 I’m currently working **at BesTel LLC**
 
 - 🌱 I’m currently learning **new technologies to explore digital world.**
 
