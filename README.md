@@ -28,10 +28,19 @@
 
 
 # 📊 GitHub Stats:
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true">
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=irtisamali2&theme=dark&hide_border=true">
+    </td>
+  </tr>
+</table>
+
 
 ### ✍️Dev Quote
-  <img  align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 
 
