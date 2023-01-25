@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irtisam Ali</h1>
 <h3 align="center">I want to leave a mark in the digital world..</h3>
 
-<img aling="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irtisamali2&label=Profile%20views&color=0e75b6&style=flat" alt="irtisamali2" /> </p>
 
