@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irtisamali2&label=Profile%20views&color=0e75b6&style=flat" alt="irtisamali2" /> </p>
 
-# 💫 About Me:
+# About Me:
 
 - 🔭 I’m currently working **at BesTel LLC**
 
